@@ -7,3 +7,4 @@ with open("donkey file.txt", "r" ) as f:
 
     with open("donkey file.txt", "w") as f:
         f.write(contentnew)
+        print(contentnew)
